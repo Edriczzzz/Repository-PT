@@ -33,7 +33,7 @@
 | **Plataforma web / telemetría** | Frontend, backend (API REST) y base de datos geoespacial                                             | [telemetry-platform](https://github.com/Edriczzzz/telemetry-platform)                                       |
 | **Aplicación móvil**            | App para cuadrillas de mantenimiento vial                                                            | [pt-movil](https://github.com/Edriczzzz/pt-movil)                                                           |
 | **Modelo de enlace FPV**        | Código del trabajo de Rodo base de cálculo para el modelo matemático de confiabilidad que proponemos | [Modelo_Enlace-FPV](https://github.com/Edriczzzz/Modelo_Enlace-FPV)                                         |
-| **Dataset (Google Drive)**      | Dataset que construí (hasta el momento) para entrenamiento del modelo de IA                          | [Carpeta de Drive](https://drive.google.com/drive/folders/1VtqtsZU4hTLdu7hOV5QhSXCYX-xNzavu?usp=drive_link) |
+| **Dataset (Google Drive)**      | Dataset que construí (hasta el momento) para entrenamiento del modelo de IA (Perdón por usar tu drive chompy)                         | [Carpeta de Drive](https://drive.google.com/drive/folders/1VtqtsZU4hTLdu7hOV5QhSXCYX-xNzavu?usp=drive_link) |
 | **Notebook de IA (Colab)**      | Entrenamiento y corrida del modelo de detección                                                      | [Google Colab](https://colab.research.google.com/drive/1jrzlB8fLN-ea9TWcWz8I6WnFu4-eDLPH?usp=sharing)       |
 
 > Nota: el repositorio del modelo de enlace corresponde a el trabajo que le hice de la beifi a rodo; lo usaremos como referencia de cálculo, y nuestra propuesta debería se una aproximación derivada y evaluada con el mismo ejemplo de ese paper.
