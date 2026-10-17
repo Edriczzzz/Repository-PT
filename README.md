@@ -1,4 +1,4 @@
-# Avances PT - Edric 
+# Avances PT
 ---
 
 ## 1. Resumen de cada campo a trabajar
